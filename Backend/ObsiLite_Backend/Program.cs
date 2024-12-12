@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using ObsiLite_Backend.models;
 
 namespace ObsiLite_Backend
 {
@@ -12,6 +14,10 @@ namespace ObsiLite_Backend
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
+
+            var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+            builder.Services.AddDbContext<ObsiliteDbContext>(options => options.UseSqlServer(connectionString));
+
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
