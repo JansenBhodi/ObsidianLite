@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ObsiLite_Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09716777fde3928afc161630fe17bcfdaea732e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5015e290f4b2d1ff62a55562ac5d30dc36d593a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ObsiLite_Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ObsiLite_Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

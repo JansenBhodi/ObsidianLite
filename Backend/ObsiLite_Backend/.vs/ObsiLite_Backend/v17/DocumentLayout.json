@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|e:\\fontys\\semester 3\\ig\\obsidianlite\\backend\\obsilite_backend\\databaseservices\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|solutionrelative:databaseservices\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|e:\\fontys\\semester 3\\ig\\obsidianlite\\backend\\obsilite_backend\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|solutionrelative:controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +15,11 @@
       "RelativeMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|solutionrelative:models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|e:\\fontys\\semester 3\\ig\\obsidianlite\\backend\\obsilite_backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|e:\\fontys\\semester 3\\ig\\obsidianlite\\backend\\obsilite_backend\\models\\obsilitedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|solutionrelative:models\\obsilitedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|e:\\fontys\\semester 3\\ig\\obsidianlite\\backend\\obsilite_backend\\obsilite_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|solutionrelative:obsilite_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|e:\\fontys\\semester 3\\ig\\obsidianlite\\backend\\obsilite_backend\\obsilite_backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|solutionrelative:obsilite_backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\janse\\AppData\\Local\\SourceServer\\c9149aa890ae7eedd01e78e61a2f7561e37c1e13fe1c6e7fddeafbf3c1f29053\\Backend\\ObsiLite_Backend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|e:\\fontys\\semester 3\\ig\\obsidianlite\\backend\\obsilite_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +28,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|e:\\fontys\\semester 3\\ig\\obsidianlite\\backend\\obsilite_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|e:\\fontys\\semester 3\\ig\\obsidianlite\\backend\\obsilite_backend\\models\\obsilitedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|solutionrelative:models\\obsilitedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|e:\\fontys\\semester 3\\ig\\obsidianlite\\backend\\obsilite_backend\\models\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D1BA7D1-E336-4590-A5FA-EB9D9452F82F}|ObsiLite_Backend.csproj|solutionrelative:models\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,39 +45,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ObsiLite_Backend.csproj",
-              "DocumentMoniker": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\ObsiLite_Backend.csproj",
-              "RelativeDocumentMoniker": "ObsiLite_Backend.csproj",
-              "ToolTip": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\ObsiLite_Backend.csproj",
-              "RelativeToolTip": "ObsiLite_Backend.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-10T09:53:51Z"
+              "DocumentIndex": 2,
+              "Title": "Note.cs",
+              "DocumentMoniker": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\models\\Note.cs",
+              "RelativeDocumentMoniker": "models\\Note.cs",
+              "ToolTip": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\models\\Note.cs",
+              "RelativeToolTip": "models\\Note.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:06:46.653Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ObsiLite_Backend.http",
-              "DocumentMoniker": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\ObsiLite_Backend.http",
-              "RelativeDocumentMoniker": "ObsiLite_Backend.http",
-              "ToolTip": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\ObsiLite_Backend.http",
-              "RelativeToolTip": "ObsiLite_Backend.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-12-03T09:33:15.169Z"
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\janse\\AppData\\Local\\SourceServer\\c9149aa890ae7eedd01e78e61a2f7561e37c1e13fe1c6e7fddeafbf3c1f29053\\Backend\\ObsiLite_Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\janse\\AppData\\Local\\SourceServer\\c9149aa890ae7eedd01e78e61a2f7561e37c1e13fe1c6e7fddeafbf3c1f29053\\Backend\\ObsiLite_Backend\\Program.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:29:25.242Z",
+              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Folder.cs",
-              "DocumentMoniker": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\models\\Folder.cs",
-              "RelativeDocumentMoniker": "models\\Folder.cs",
-              "ToolTip": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\models\\Folder.cs",
-              "RelativeToolTip": "models\\Folder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "DocumentIndex": 0,
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\DatabaseServices\\NoteService.cs",
+              "RelativeDocumentMoniker": "DatabaseServices\\NoteService.cs",
+              "ToolTip": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\DatabaseServices\\NoteService.cs",
+              "RelativeToolTip": "DatabaseServices\\NoteService.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAcwGgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T11:57:38.012Z"
+              "WhenOpened": "2024-12-12T11:34:44.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -96,21 +88,23 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-19T11:44:52.836Z"
+              "WhenOpened": "2024-11-19T11:44:52.836Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "ObsiliteDbContext.cs",
               "DocumentMoniker": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\models\\ObsiliteDbContext.cs",
               "RelativeDocumentMoniker": "models\\ObsiliteDbContext.cs",
               "ToolTip": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\models\\ObsiliteDbContext.cs",
               "RelativeToolTip": "models\\ObsiliteDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T11:34:20.94Z"
+              "WhenOpened": "2024-11-19T11:34:20.94Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -120,46 +114,23 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T11:21:40.979Z"
+              "WhenOpened": "2024-11-19T11:21:40.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NoteController.cs",
               "DocumentMoniker": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\Controllers\\NoteController.cs",
               "RelativeDocumentMoniker": "Controllers\\NoteController.cs",
               "ToolTip": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\Controllers\\NoteController.cs",
               "RelativeToolTip": "Controllers\\NoteController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAMwFoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T11:22:03.612Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T11:21:31.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Note.cs",
-              "DocumentMoniker": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\models\\Note.cs",
-              "RelativeDocumentMoniker": "models\\Note.cs",
-              "ToolTip": "E:\\Fontys\\Semester 3\\IG\\ObsidianLite\\Backend\\ObsiLite_Backend\\models\\Note.cs",
-              "RelativeToolTip": "models\\Note.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:50:01.196Z"
             }
           ]
         },

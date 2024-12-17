@@ -17,8 +17,12 @@ namespace ObsiLite_Backend
 
             var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
             builder.Services.AddDbContext<ObsiliteDbContext>(options => options.UseSqlServer(connectionString));
-
             builder.Services.AddSwaggerGen();
+
+            //builder.Services.AddSession(options =>
+            //{
+            //    options.IdleTimeout = TimeSpan.FromMinutes(10);
+            //});
 
             var app = builder.Build();
 
@@ -30,7 +34,8 @@ namespace ObsiLite_Backend
             }
 
             app.UseHttpsRedirection();
-
+            //app.UseSession();
+            app.UseRouting();
             app.UseAuthorization();
 
 
