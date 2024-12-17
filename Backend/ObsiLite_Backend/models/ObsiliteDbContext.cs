@@ -3,15 +3,14 @@ namespace ObsiLite_Backend.models
 {
     public partial class ObsiliteDbContext : DbContext
     {
-        public ObsiliteDbContext(DbContextOptions
-            <ObsiliteDbContext> options) : base(options)
+        public ObsiliteDbContext(DbContextOptions<ObsiliteDbContext> options) 
+            : base(options)
         {
 
         }
 
         public virtual DbSet<Note> Note { get; set; }
         public virtual DbSet<Folder> Folder { get; set; }
-
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)  
         {
