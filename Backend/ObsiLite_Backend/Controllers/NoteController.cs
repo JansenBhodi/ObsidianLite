@@ -21,18 +21,18 @@ namespace ObsiLite_Backend.Controllers
 
 
         //update later to use user credentials
-        [HttpGet(Name = "GetNotes")]
+        [HttpGet("GetNotes")]
         public List<Note> GetNotes()
         {
             List<Note> result = new List<Note>();
 
             result = DbNote.GetNotes();
 
-            if(result.Count > 0)
+            if (result.Count > 0)
             {
                 return result;
             }
-            else if(result == null)
+            else if (result == null)
             {
                 throw new Exception();
             }
@@ -43,21 +43,61 @@ namespace ObsiLite_Backend.Controllers
 
         }
 
-        [HttpPost(Name = "CreateNote")]
-        public bool CreateNote(Note note)
+        [HttpGet("GetNotesByOwnerId")]
+        public List<Note> GetNotesByOwnerId(int id)
         {
-            try
-            {
+            List<Note> result = new List<Note>();
 
-            }
-            catch (Exception)
+            result = DbNote.GetNotesByOwnerId(id);
+
+            if(result.Count > 0)
             {
-                return false;
+                return result;
             }
-            return true;
+            else if (result == null)
+            {
+                throw new Exception();
+            }
+            else
+            {
+                throw new Exception();
+            }
         }
 
-        [HttpPost(Name = "UpdateNote")]
+        [HttpGet("GetNoteById")]
+        public Note GetNoteById(int id)
+        {
+            if(id == 0 || id == null)
+            {
+                throw new Exception();
+            }
+            else
+            {
+                return DbNote.GetNoteById(id);
+            }
+        }
+
+        [HttpPost("CreateNote")]
+        public IActionResult CreateNote([FromBody] Note input)
+        {
+            int validator = 0;
+            Note note = new Note
+                (   input.OwnerId,
+                    input.Title,
+                    input.Body
+                );
+            try
+            {
+                validator = DbNote.CreateNote(note);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            return CreatedAtAction(nameof(GetNoteById), new {id = validator }, note);
+        }
+
+        [HttpPost("UpdateNote")]
         //update this to accept json maybe?
         public bool EditNote(Note note)
         {

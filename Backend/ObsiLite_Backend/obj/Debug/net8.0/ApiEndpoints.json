@@ -1,8 +1,50 @@
 [
   {
     "ContainingType": "ObsiLite_Backend.Controllers.NoteController",
+    "Method": "CreateNote",
+    "RelativePath": "Note/CreateNote",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "ObsiLite_Backend.models.Note",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ObsiLite_Backend.Controllers.NoteController",
+    "Method": "GetNoteById",
+    "RelativePath": "Note/GetNoteById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ObsiLite_Backend.models.Note",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ObsiLite_Backend.Controllers.NoteController",
     "Method": "GetNotes",
-    "RelativePath": "Note",
+    "RelativePath": "Note/GetNotes",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -21,8 +63,34 @@
   },
   {
     "ContainingType": "ObsiLite_Backend.Controllers.NoteController",
+    "Method": "GetNotesByOwnerId",
+    "RelativePath": "Note/GetNotesByOwnerId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ObsiLite_Backend.models.Note, ObsiLite_Backend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ObsiLite_Backend.Controllers.NoteController",
     "Method": "EditNote",
-    "RelativePath": "Note",
+    "RelativePath": "Note/UpdateNote",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
